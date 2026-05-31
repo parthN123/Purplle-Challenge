@@ -1,0 +1,15 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./dataset:/app/dataset:ro
+      - ./events:/app/events
+      - api_runtime:/app/runtime
+    environment:
+      - PYTHONUNBUFFERED=1
+      - STORE_DB_PATH=/app/runtime/store_intelligence.db
+
+volumes:
+  api_runtime:

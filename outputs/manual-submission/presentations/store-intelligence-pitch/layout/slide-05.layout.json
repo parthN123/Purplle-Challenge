@@ -1,0 +1,553 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/u8rsil",
+    "id": "u8rsil",
+    "slide": 5,
+    "layoutId": "548d0ecb-48d8-4b66-927f-e1228ef095c8",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "c68008d0-f58a-4c4c-97fc-8321e9a17ced",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#241824",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Aptos Mono"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "548d0ecb-48d8-4b66-927f-e1228ef095c8",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "c68008d0-f58a-4c4c-97fc-8321e9a17ced",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "c68008d0-f58a-4c4c-97fc-8321e9a17ced",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "1",
+      "bbox": [
+        60,
+        44,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "LIVE DEMO",
+      "textPreview": "LIVE DEMO",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#F6E7F5",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LIVE DEMO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LIVE DEMO",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#F6E7F5",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LIVE DEMO",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#F6E7F5",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "2",
+      "bbox": [
+        60,
+        86,
+        900,
+        62
+      ],
+      "geometry": "rect",
+      "text": "A replay script proves the dashboard is connected to ingestion.",
+      "textPreview": "A replay script proves the dashboard is connected to ingestion.",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Aptos Display",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A replay script proves the dashboard is connected to"
+          },
+          {
+            "index": 2,
+            "text": "ingestion."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A replay script proves the dashboard is connected to ingestion.",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Aptos Display",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A replay script proves the dashboard is connected to ingestion.",
+              "fontSize": 38,
+              "typeface": "Aptos Display",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "3",
+      "bbox": [
+        72,
+        210,
+        1120,
+        110
+      ],
+      "geometry": "rect",
+      "fillColor": "#352335",
+      "lineColor": "#7F5B80",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "4",
+      "bbox": [
+        102,
+        244,
+        1060,
+        42
+      ],
+      "geometry": "rect",
+      "text": "python pipeline/replay_events.py --input events/detected_events.jsonl --api-url http://localhost:8000 --batch-size 10 --delay 1",
+      "textPreview": "python pipeline/replay_events.py --input events/detected_events.jsonl --api-url http://localhost:8000 --batch-size 10 --delay 1",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos Mono",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "python pipeline/replay_events.py --input events/detected_events.jsonl --api-url http://localhost:8000 --batch-size 10"
+          },
+          {
+            "index": 2,
+            "text": "--delay 1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "python pipeline/replay_events.py --input events/detected_events.jsonl --api-url http://localhost:8000 --batch-size 10 --delay 1",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos Mono",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "python pipeline/replay_events.py --input events/detected_events.jsonl --api-url http://localhost:8000 --batch-size 10 --delay 1",
+              "fontSize": 22,
+              "typeface": "Aptos Mono",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "5",
+      "bbox": [
+        96,
+        392,
+        920,
+        34
+      ],
+      "geometry": "rect",
+      "text": "• Dashboard route: http://localhost:8000/dashboard",
+      "textPreview": "• Dashboard route: http://localhost:8000/dashboard",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#F6E7F5",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Dashboard route: http://localhost:8000/dashboard"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Dashboard route: http://localhost:8000/dashboard",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#F6E7F5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Dashboard route: http://localhost:8000/dashboard",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#F6E7F5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "6",
+      "bbox": [
+        96,
+        446,
+        920,
+        34
+      ],
+      "geometry": "rect",
+      "text": "• Live JSON route: /stores/STORE_PURPLLE_001/live",
+      "textPreview": "• Live JSON route: /stores/STORE_PURPLLE_001/live",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#F6E7F5",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Live JSON route: /stores/STORE_PURPLLE_001/live"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Live JSON route: /stores/STORE_PURPLLE_001/live",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#F6E7F5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Live JSON route: /stores/STORE_PURPLLE_001/live",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#F6E7F5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "7",
+      "bbox": [
+        96,
+        500,
+        920,
+        34
+      ],
+      "geometry": "rect",
+      "text": "• Final verification: 11 tests passing",
+      "textPreview": "• Final verification: 11 tests passing",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#F6E7F5",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Final verification: 11 tests passing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Final verification: 11 tests passing",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#F6E7F5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Final verification: 11 tests passing",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#F6E7F5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "8",
+      "bbox": [
+        96,
+        554,
+        920,
+        34
+      ],
+      "geometry": "rect",
+      "text": "• Primary event output: events/detected_events.jsonl",
+      "textPreview": "• Primary event output: events/detected_events.jsonl",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#F6E7F5",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• Primary event output: events/detected_events.jsonl"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• Primary event output: events/detected_events.jsonl",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#F6E7F5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• Primary event output: events/detected_events.jsonl",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#F6E7F5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

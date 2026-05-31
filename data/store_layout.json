@@ -1,0 +1,23 @@
+{
+  "store_id": "STORE_PURPLLE_001",
+  "open_hours": {
+    "timezone": "Asia/Kolkata",
+    "opens": "10:00",
+    "closes": "22:00"
+  },
+  "cameras": {
+    "CAM_1": {"label": "Entry threshold", "zones": ["ENTRY"]},
+    "CAM_2": {"label": "Main floor left", "zones": ["SKINCARE", "MAKEUP"]},
+    "CAM_3": {"label": "Main floor right", "zones": ["HAIRCARE", "FRAGRANCE"]},
+    "CAM_4": {"label": "Billing counter", "zones": ["BILLING"]},
+    "CAM_5": {"label": "Exit overlap", "zones": ["ENTRY", "BILLING"]}
+  },
+  "zones": {
+    "ENTRY": {"sku_zone": null},
+    "SKINCARE": {"sku_zone": "MOISTURISER"},
+    "MAKEUP": {"sku_zone": "LIPSTICK"},
+    "HAIRCARE": {"sku_zone": "SHAMPOO"},
+    "FRAGRANCE": {"sku_zone": "PERFUME"},
+    "BILLING": {"sku_zone": null}
+  }
+}

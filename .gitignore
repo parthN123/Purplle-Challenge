@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+runtime/
+*.pt
+events/*.db
+events/*.db-*
+*.zip
+*.mp4
+dataset/CCTV Footage/
+**/node_modules/
