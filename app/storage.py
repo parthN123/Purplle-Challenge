@@ -9,7 +9,8 @@ from typing import Iterator
 from app.models import StoreEvent
 
 
-DB_PATH = Path(os.getenv("STORE_DB_PATH", "runtime/store_intelligence.db"))
+DEFAULT_DB_PATH = "/tmp/store_intelligence.db" if os.getenv("VERCEL") else "runtime/store_intelligence.db"
+DB_PATH = Path(os.getenv("STORE_DB_PATH", DEFAULT_DB_PATH))
 
 
 def utc_now_iso() -> str:
